@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JKS92L
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning PHP, JAVASCRIPT, REACT
-- 💞️ I’m looking to collaborate on PHP JS and CS Projects
+- 🌱 PHP, JAVASCRIPT, REACT
+- 💞️ I’m looking to collaborate on PHP, JS & HTML Projects
 - 📫 How to reach me kjacksey@gmail.com 
 
 <!---
